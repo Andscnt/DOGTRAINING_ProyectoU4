@@ -877,7 +877,6 @@ background: linear-gradient(151deg, rgba(137,84,40,0.87718837535014) 16%, rgba(2
         align-items: center;
         border: var(--amarillo) 3px solid;
         box-shadow: 0px 0px 6px #333;
-        margin: 10px;
 }
 .contacordeon{
     width: 45%;
